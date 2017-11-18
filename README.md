@@ -5,21 +5,15 @@
 
 
 - [x] [Java Basics](https://teamtreehouse.com/library/java-basics)
-> **♦ ~Getting Started with Java~** _⸽⸽ ~Introduction to Your Tools~ ⸽⸽ ~Review: Introduction to Your Tools~ ⸽⸽ ~Strings and Variables~ ⸽⸽ ~Strings, Variables, and Formatting~ ⸽⸽ ~Receiving Input~ ⸽⸽ ~IO~_
-
-> **♦ ~Using Your New Tools~** _⸽⸽ ~Multiple Strings~ ⸽⸽ ~Multiple Format Strings~ ⸽⸽ ~Errors~ ⸽⸽ ~Errors~ ⸽⸽ ~Coding the Prototype~ ⸽⸽ ~Fix the Errors~_
-
+> **♦ ~Getting Started with Java~** _⸽⸽ ~Introduction to Your Tools~ ⸽⸽ ~Review: Introduction to Your Tools~ ⸽⸽ ~Strings and Variables~ ⸽⸽ ~Strings, Variables, and Formatting~ ⸽⸽ ~Receiving Input~ ⸽⸽ ~IO~_  
+> **♦ ~Using Your New Tools~** _⸽⸽ ~Multiple Strings~ ⸽⸽ ~Multiple Format Strings~ ⸽⸽ ~Errors~ ⸽⸽ ~Errors~ ⸽⸽ ~Coding the Prototype~ ⸽⸽ ~Fix the Errors~_  
 > **◊ Getting Started with Java** _⸽⸽ ~Module 1~ ⸾ ⸽⸽ ~Module 2~ ⸽⸽ Module 3_
 
 - [x] [Java Objects](https://teamtreehouse.com/library/java-objects-2)
-> **♦ ~Meet Objects~** _⸽⸽ Creating classes, access modifiers, methods, getters, and constructors ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
-
-> **♦ ~Harnessing the Power of Objects~** _⸽⸽ Constants, changing state, abstraction, incrementing/decrementing, method overloading, and exceptions ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
-
-> **♦ ~Creating the MVP~** _⸽⸽ Planning the MVP, separation of concerns, storing guesses, prompting, remaining tries⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
-
+> **♦ ~Meet Objects~** _⸽⸽ Creating classes, access modifiers, methods, getters, and constructors ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■  
+> **♦ ~Harnessing the Power of Objects~** _⸽⸽ Constants, changing state, abstraction, incrementing/decrementing, method overloading, and exceptions ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■  
+> **♦ ~Creating the MVP~** _⸽⸽ Planning the MVP, separation of concerns, storing guesses, prompting, remaining tries⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■  
 > **♦ ~Delivering the MVP~** _⸽⸽ Exceptions, validating/normalizing user input, method overloading, determining winner, arrays, comman line arguments ⸽⸽_ ■ ■ ■ ■ ■ ■ ■ ■ ■ ■
-
 
 - [ ] [Java Arrays](https://teamtreehouse.com/library/java-arrays)
 
