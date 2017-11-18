@@ -1,3 +1,7 @@
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet  
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
+
 # TESTING README FORMATTING FOR THE IntroToJava REPO
 ## Working through Treehouse's [Learn Java](https://teamtreehouse.com/tracks/learn-java) Track
 #### Follow My Progress [here](https://teamtreehouse.com/stephanieyoustra)
